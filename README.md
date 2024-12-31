@@ -1,5 +1,5 @@
 # Hi, I am Sampad Mandal
-I am a researcher of computational material science. I am interested in thermoelectric, piezoelectric, and ferroelectric properties of materials. I am also interested in superconductivity.
+I am a researcher of computational material science. I am interested in thermoelectricity, piezoelectricity, and ferroelectricity. I am also interested in superconductivity.
 
 ## I can also be found here:
 [ResearchGate](https://www.researchgate.net/profile/Sampad-Mandal) 
