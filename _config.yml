@@ -6,4 +6,4 @@ e-mail: mandalsampad1995@hmail.com
 # logo: /assets/img/headshot_circle.png
 #description: text below image
 show_downloads: true
-theme: dark
+theme: jekyll-theme-minimal
